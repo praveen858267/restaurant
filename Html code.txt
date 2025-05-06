@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+<head>
+<title> Table displaying different tags in HTML. </title>
+<style>
+table,th,td {
+border:1px black;
+border-collapse: collapse;
+            padding: 8px;
+}
+</style>
+</head>
+<body>
+<table>
+       <tr> 
+       <th> tag name </th>
+       <th> description </th>
+       </tr>
+<hr>
+       <tr>
+           <td> Audio tag </td>
+           <td> Used to embed sound/music into a page. </td>
+     
+       </tr>
+       <tr>
+           <td> Aside tag </td>
+           <td> Used for side content, like a sidebar or note, related to the main content. </td>
+       </tr>
+       <tr>
+           <td> article tag </td>
+           <td> The <article> tag is used to define independent, self-contained content that makes sense on its own. </td>
+       </tr>
+       <tr>
+           <td> address tag </td>
+           <td> Used to define contact information (like an email or physical address)..</td>
+       </tr>
+       <tr>
+           <td> button tag </td>
+           <td> Creates a clickable button. </td>
+       </tr>
+       <tr>
+           <td> body tag </td>
+           <td> The main part of the HTML document; contains what is visible on the web page. </td>
+       </tr>
+       <tr>
+           <td> block quotation tag </td>
+           <td> Used to display a long quote from another source, usually indented. </td>
+       </tr>
+       <tr>
+           <td> Bold tag </td>
+           <td> Makes text bold (without adding extra importance). </td>
+       </tr>
+       <tr>
+           <td> Canvas tag </td>
+           <td> Used to draw graphics (like shapes, charts, games) using JavaScript. </td>
+       </tr>
+       <tr>
+           <td> Caption tag </td>
+           <td> Adds a title or caption to a table. </td>
+       </tr>
+       <tr>
+           <td> Coloum tag </td>
+           <td> Defines the style or width of a column inside a <colgroup>. </td>
+       </tr>
+       <tr>
+           <td> Description detail tag </td>
+           <td> Used inside a <dl> to provide the definition or description of a term. </td>
+       </tr>
+       <tr>
+           <td> Deleted text tag </td>
+           <td> Defines the style or width of a column inside a <colgroup>. </td>
+       </tr>
+       <tr>
+           <td> embed external content tag </td>
+           <td> Embeds external content like videos, PDFs, or apps directly into the page. </td>
+       </tr>
+       <tr>
+           <td> form for user input tag </td>
+           <td>Used to collect user input (like login, search, contact forms). </td>
+       </tr>
+       <tr>
+           <td> caption for a figure tag </td>
+           <td> Adds a caption or description to content inside a. </td>
+       </tr>
+       <tr>
+           <td> Heading tag </td>
+           <td> Define headings in order of importance </td>
+       </tr>
+       <tr>
+           <td> Header tag </td>
+           <td> Defines the top section of a page or content block (often includes logo, nav, etc)</td>
+       </tr>
+       <tr>
+           <td> Horizontel tag </td>
+           <td> Creates a horizontal line, often used to separate content.</td>
+       </tr>
+       <tr>
+           <td> Italic tag </td>
+           <td> Makes text italic (usually for a different voice or style, like foreign words).</td>
+       </tr>
+       <tr>
+           <td> Image tag </td>
+           <td> Used to display an image</td>
+       </tr>
+       <tr>
+           <td> Inserted tag </td>
+           <td> Shows newly added text, usually underlined.</td>
+       </tr>
+       <tr>
+           <td> paragraph tag </td>
+           <td> Defines a block of text (a paragraph).</td>
+       </tr>
+       <tr>
+           <td> sample output tag </td>
+           <td> Shows the progress of a task.</td>
+       </tr>
+       <tr>
+           <td> smaller tag </td>
+           <td> Makes the text smaller (usually for disclaimers or side notes).</td>
+       </tr>
+       <tr>
+           <td> strong importance tag </td>
+           <td> Makes text bold and semantically important.</td>
+       </tr>
+         
+</table>
+</body>
+</html>
